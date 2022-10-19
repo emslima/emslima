@@ -1,1 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=60&duration=4000&pause=1000&color=2D2D2D&width=935&height=100&lines=Hi%2C+I'm+Lima.+Creative+developer;HMTL%2FCSS+%2B+Javascript" alt="Typing SVG" /></a>
+Hello World,
+
+my name is Emerson Lima, I'm a self-taught developer, and I currentlylive in Vitória, Espírito Santo. I've been studying frontend since 2022 and recently I've been deepening into Web Dev. Since the beginning I try to create responsive and nice designs, clean code, and always prioritizing the user experience, no matter what browser or operating system you are on.
+
+This is my adventure, and I surf it with HTML, CSS and Javascript.
