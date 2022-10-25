@@ -4,7 +4,7 @@ my name is Emerson Lima, I'm a <strong>self-taught developer</strong>  and  <str
 
 <img align="right" alt="Emerson, avatar atrás do laptop" src="./memoji avatar.png" width="150">
 
-Currently I am studying Systems Analysis and Development at Estácio de Vitória - ES. 🎓
+Currently I am studying at college, Systems Analysis and Development at Estácio de Vitória - Espiríto Santo 🎓
 
 This is my adventure, and I surf it with <strong>HTML</strong>, <strong>CSS</strong> and <strong>Javascript.</strong><br><br>
 
