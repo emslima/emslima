@@ -6,6 +6,8 @@ my name is Emerson Lima, I'm a <strong>self-taught developer</strong>  and  <str
 
 Currently I am studying at college, Systems Analysis and Development at Estácio de Vitória - ES 🎓
 
-This is my adventure, and I surf it with <strong>HTML</strong>, <strong>CSS</strong> and <strong>Javascript.</strong><br><br>
+This is my adventure, and I surf it with <strong>HTML</strong>, <strong>CSS</strong> and <strong>Javascript.</strong><br>
+
+<p align="left"><a target="_blank" href="emslima.github.io/portifolio/" title="Check, this, OUT!">Check, this, OUT!</a>
 
 <p align="left"><a target="_blank" href="https://www.linkedin.com/in/emerson-lima-94247822b/" title="LinkedIn"><img alt="LinkedIn's Logo" height="20" src="./brand-linkedin.png"></a> <a target="_blank" href="https://vsco.co/dimitrlims/gallery" title="VSCO"><img alt="VSCO Logo" height="20" src="./brand-vsco.png"></p>
