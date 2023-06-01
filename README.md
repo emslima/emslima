@@ -8,4 +8,8 @@ Currently I am studying at college, Systems Analysis and Development at Estácio
 
 This is my adventure, and I surf it with <strong>HTML</strong>, <strong>CSS</strong> and <strong>Javascript.</strong><br><br>
 
-<p align="left"><a target="_blank" href="https://www.linkedin.com/in/emerson-lima-94247822b/" title="LinkedIn"><img alt="LinkedIn's Logo" height="20" src="./brand-linkedin.png"></a> <a target="_blank" href="https://vsco.co/dimitrlims/gallery" title="VSCO"><img alt="VSCO Logo" height="20" src="./brand-vsco.png"></p>
+<p align="left">
+  <a target="_blank" href="https://www.linkedin.com/in/emerson-lima-94247822b/" title="LinkedIn">
+  <img alt="LinkedIn's Logo" height="20" src="./brand-linkedin.png"></a>
+  <a target="_blank" href="https://dribbble.com/dimilims" title="dribbble">
+  <img alt="VSCO Logo" height="20" src="./brand-dribbble.png"></p>
