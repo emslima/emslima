@@ -4,8 +4,6 @@ my name is Emerson Lima, I'm a <strong>self-taught developer</strong>  and  <str
 
 <img align="right" alt="Emerson, avatar atrás do laptop" src="./thats me.png" width="150">
 
-Currently I am studying at college, Systems Analysis and Development in Vitória - ES 🎓
-
 This is my adventure, and I surf it with <strong>HTML</strong>, <strong>CSS</strong> and <strong>Javascript.</strong><br><br>
 
 <p align="left">
